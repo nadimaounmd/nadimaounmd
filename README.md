@@ -13,11 +13,11 @@ Welcome to my portfolio. I am an analytically driven Medical Doctor (MD) special
 ---
 
 ## 📁 Active Portfolios & Frameworks
-**   [Clinical Prompt Engineering](https://github.com) - High-difficulty, multi-step adult medicine logic vignettes used to evaluate LLM reasoning boundaries.
+*   [Clinical Prompt Engineering](https://github.com) - High-difficulty, multi-step adult medicine logic vignettes used to evaluate LLM reasoning boundaries.
 *   [AI Clinical QA Rubrics](https://github.com) - Structured 5-point scoring frameworks built to identify patient-safety errors and medical hallucinations.
 
 ---
 
 ## 📬 Connect With Me
 *   **Email:** aoun44@gmail.com
-* **LinkedIn:** [linkedin.com/in/nadimaounmd](https://www.linkedin.com/in/nadimaounmd)
+*   **LinkedIn:** [linkedin.com/in/nadimaounmd](https://www.linkedin.com/in/nadimaounmd)
